@@ -9,38 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
+Academic Positions
+==================
+Rice University                                                                                                           May 2020-December 2021
+Graduate Student, Graduate Research Assistant
+Department of Statistics
+
+University of Texas-Pan American                                                                            November 2013-May 2014
+Graduate Student, Graduate Research Assistant
+Department of Mathematics
+
 Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+==========
+Rice University                                                                                                                                      July 2022
+PhD in Statistics
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Rice University                                                                                                                            December 2021
+Master of Science in Statistics
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+University of Texas-Pan American                                                                                                   August 2014
+Master of Science in Mathematical Science                                                                                       
+
+University of Texas-Pan American                                                                                                       July 2014
+Bachelor of Science in Applied Mathematics                                                                             	         
+
+University of Texas-Pan American                                                                                                       May 2011
+Graduate Certificate in Communication Training and Consulting                                                     
+
+University of Michigan-Ann Arbor                                                                                                  August 2006
+Bachelor of Arts in Economics, Minor in German                                                                            
 
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+  
+Honors and Awards
+========
+
+National GEM Consortium Associate Fellow (August 2021-Present)
+Department of Defense SMART Semi-Finalist (2020)
+
   
 Talks
 ======
@@ -54,6 +64,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+OTHER EXPERIENCE
+Sandia National Laboratories                                                                                          December 2021-Present
+Intern - TITANS Software – R&D Graduate Year-Round
+
+Pacific Northwest National Laboratory (PNNL)                                                            June 2021-August 2021
+PhD Intern
+
+NASA Johnson Space Center                                                                                          June 2018-August 2018
+Summer Intern
+
+IDEA Public Schools                                                                                             September 2015-August 2017
+Student Information Systems Data Analyst
