@@ -18,12 +18,12 @@ Academic Positions
 Education
 ======
 
-* Rice University, PhD in Statistics,  May 2022 (Expected)
-* Rice University, Masters in Statistics, December 2021
-* University of Texas-Pan American, Master of Science in Mathematical Science, August 2014
-* University of Texas-Pan American, Bachelor of Science in Applied Mathematics, July 2014
-* University of Texas-Pan American, Graduate Certificate in Communication Training and Consulting, May 2011
-* University of Michigan-Ann Arbor, Bachelor of Arts in Economics, Minor in German, August 2006
+* Rice University, PhD in Statistics,  August 2022 (Conferred)
+* Rice University, Masters in Statistics, December 31, 2021
+* University of Texas-Pan American, Master of Science in Mathematical Science, August 16, 2014
+* University of Texas-Pan American, Bachelor of Science in Applied Mathematics, July 9, 2014
+* University of Texas-Pan American, Graduate Certificate in Communication Training and Consulting, May 14, 2011
+#* University of Michigan-Ann Arbor, Bachelor of Arts in Economics, Minor in German, August 2006
                                                                           
 Publications
 ============
