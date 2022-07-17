@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Alejandro Aguilar"
   avatar           : #"profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "PhD Candidate at Rice University"
+  location         : "Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            : alex.aguilar@rice.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/alejandro-aguilar-a1ba658a/
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
