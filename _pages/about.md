@@ -9,17 +9,6 @@ redirect_from:
 ---
 
 
+My name is Alejandro Aguilar and I am a PhD candidate who is finishing his fifth year at Rice University in the Department of Statistics.  My dissertation advisor is Dr. Katherine Ensor.    
 
-A data-driven personal website
-======
-
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
+Moreover, I am also interested in any discussions and/or collaborating on any projects related to my research, research interests, or areas of applications (please click on my Research tab).  I also speak Spanish, German, a little French, and a little Italian.  Therefore, please leave me any comments, suggestions, and any feedback or send me an email (click email on the sidebar) in English or the previously mentioned languages.  Also, feel free to add me on GitHub, LinkedIn, and/or ResearchGate (click side bar names and/or icons).  Thank you!  
