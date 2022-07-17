@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+<p align="center"> Alejandro Aguilar </p>
+<p align="center"> alex.aguilar@rice.edu </p>
+<p align="center"> <a href="/files/Aguilar, Alejandro (CV).pdf">Download CV</a> </p>
+
 Academic Positions 
 ===================
 
