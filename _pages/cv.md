@@ -9,70 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-Academic Positions
-==================
-Rice University                                                                                                           May 2020-December 2021
-Graduate Student, Graduate Research Assistant
-Department of Statistics
+Academic Positions 
+===================
 
-University of Texas-Pan American                                                                            November 2013-May 2014
-Graduate Student, Graduate Research Assistant
-Department of Mathematics
+* Rice University, Department of Statistics, Graduate Student, Graduate Research Assistant, May 2020-December 2021
+* University of Texas-Pan American, Department of Mathematics, Graduate Student, Graduate Research Assistant, November 2013-May 2014
 
 Education
-==========
-Rice University                                                                                                                                      July 2022
-PhD in Statistics
+======
 
-Rice University                                                                                                                            December 2021
-Master of Science in Statistics
-
-University of Texas-Pan American                                                                                                   August 2014
-Master of Science in Mathematical Science                                                                                       
-
-University of Texas-Pan American                                                                                                       July 2014
-Bachelor of Science in Applied Mathematics                                                                             	         
-
-University of Texas-Pan American                                                                                                       May 2011
-Graduate Certificate in Communication Training and Consulting                                                     
-
-University of Michigan-Ann Arbor                                                                                                  August 2006
-Bachelor of Arts in Economics, Minor in German                                                                            
-
+* Rice University, PhD in Statistics,  May 2022 (Expected)
+* Rice University, Masters in Statistics, December 2021
+* University of Texas-Pan American, Master of Science in Mathematical Science, August 2014
+* University of Texas-Pan American, Bachelor of Science in Applied Mathematics, July 2014
+* University of Texas-Pan American, Graduate Certificate in Communication Training and Consulting, May 2011
+* University of Michigan-Ann Arbor, Bachelor of Arts in Economics, Minor in German, August 2006
+                                                                          
 Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+============
+* **Aguilar, A.** and Ensor, K. (2020) Topology Data Analysis Using Mean Persistence Landscapes in Financial Crashes. *Journal of Mathematical Finance*, **10**, 648-678. [https://doi.org/10.4236/jmf.2020.104038](https://doi.org/10.4236/jmf.2020.104038).
+
 Honors and Awards
-========
+=================
+* National GEM Consortium Associate Fellow (August 2021-Present)
+* Department of Defense SMART Semi-Finalist (2020)
 
-National GEM Consortium Associate Fellow (August 2021-Present)
-Department of Defense SMART Semi-Finalist (2020)
+Teaching Experience
+===================
+* Rice University, Graduate Student, Graduate Teaching Assistant, August 2017-May 2020
+* University of Texas-Pan American, Graduate Student, Assistant Instructor, Jun 2014-May 2015
 
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-OTHER EXPERIENCE
-Sandia National Laboratories                                                                                          December 2021-Present
-Intern - TITANS Software – R&D Graduate Year-Round
 
-Pacific Northwest National Laboratory (PNNL)                                                            June 2021-August 2021
-PhD Intern
+#Talks
+#======
+ # <ul>{% for post in site.talks %}
+  #  {% include archive-single-talk-cv.html %}
+  #{% endfor %}</ul>
 
-NASA Johnson Space Center                                                                                          June 2018-August 2018
-Summer Intern
+Professional Service
+====================
+**Outreach and Mentorship**
+* Rice University-Google REU in Data Science, Summer Mentor (May 2021-July 2021)
+*	Rice University-Freshman Math Mentorship, Mentor (September 2020-May 2021)
+*	University of Texas-Pan American, Experimental and Geometry Lab (EAGL), Volunteer Research Assistant/Volunteer Outreach Assistant (October 2013-April 2015)
 
-IDEA Public Schools                                                                                             September 2015-August 2017
-Student Information Systems Data Analyst
+**Professional Memberships**
+*	American Statistical Association (2019-present)
+*	Society for Advancement of Chicanos/Hispanics and Native Americans in Science (September 2012-September 2014)
+*	Society of Industrial and Applied Mathematics (September 2012-August 2014)
+
+Other Experience
+==================
+* Sandia National Laboratories, R&D Graduate Year-Round Intern, December 2021-Present
+* Pacific Northwest National Laboratory (PNNL), PhD Intern, June 2021-August 2021
+* NASA Johnson Space Center, Summer Intern, June 2018-August 2018
+* IDEA Public Schools, Student Information Systems Data Analyst, September 2015-August 2017
