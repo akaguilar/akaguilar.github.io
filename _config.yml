@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Alejandro Aguilar"
   avatar           : "Alejandro_Aguilar.png"
-  bio              : "PhD Candidate at Rice University"
+  bio              : "PhD Candidate at Rice University, R&D Graduate Year-Round Intern at Sandia National Laboratories"
   location         : "Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : alex.aguilar@rice.edu
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "alex.aguilar@rice.edu"
+  researchgate     : "https://www.researchgate.net/profile/Alejandro-Aguilar-14"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : https://www.linkedin.com/in/alejandro-aguilar-a1ba658a/
+  linkedin         : "https://www.linkedin.com/in/alejandro-aguilar-a1ba658a/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
