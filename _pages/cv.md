@@ -27,8 +27,7 @@ Education
 * University of Texas-Pan American, Master of Science in Mathematical Science, August 16, 2014
 * University of Texas-Pan American, Bachelor of Science in Applied Mathematics, July 9, 2014
 * University of Texas-Pan American, Graduate Certificate in Communication Training and Consulting, May 14, 2011
-
-#* University of Michigan-Ann Arbor, Bachelor of Arts in Economics, Minor in German, August 2006
+* University of Michigan-Ann Arbor, Bachelor of Arts in Economics, Minor in German
                                                                           
 Publications
 ============
