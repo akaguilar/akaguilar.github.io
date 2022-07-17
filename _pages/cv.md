@@ -43,18 +43,6 @@ Teaching Experience
 * Rice University, Graduate Student, Graduate Teaching Assistant, August 2017-May 2020
 * University of Texas-Pan American, Graduate Student, Assistant Instructor, Jun 2014-May 2015
 
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-#Talks
-#======
- # <ul>{% for post in site.talks %}
-  #  {% include archive-single-talk-cv.html %}
-  #{% endfor %}</ul>
-
 Professional Service
 ====================
 **Outreach and Mentorship**
