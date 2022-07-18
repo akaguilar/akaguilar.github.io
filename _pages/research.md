@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: "Research"
-author_profile: true
 permalink: /research/
+author_profile: true
 ---
 
 At the moment, I am doing research in theoretical statistical inference in topological data analysis (TDA) and time series analysis.  My advisor is Dr. Katherine Ensor.  Aside from TDA and time series, I have the following research interests:
