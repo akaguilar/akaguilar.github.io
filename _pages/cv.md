@@ -22,7 +22,7 @@ Academic Positions
 Education
 ======
 
-* Rice University, PhD in Statistics,  August 2022 (Conferred)
+* Rice University, PhD in Statistics,  August 31, 2022
 * Rice University, Masters in Statistics, December 31, 2021
 * University of Texas-Pan American, Master of Science in Mathematical Science, August 16, 2014
 * University of Texas-Pan American, Bachelor of Science in Applied Mathematics, July 9, 2014
