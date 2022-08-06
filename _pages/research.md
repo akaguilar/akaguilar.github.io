@@ -38,13 +38,20 @@ Application areas
 
 * Computer Science
 
+* Neuroscience
+
+* Engineering
+
+* Space Science
+
+* Earth Science
+
+* Environment
+
 * Finance
 
 * Economics
 
-* Neuroscience
-
-* Engineering
 
 Moreover, I am also interested in any discussions and/or collaborating on any projects related to my research, research interests, or areas of applications. Therefore, please leave me any comments, suggestions, and any feedback or send me an email. Also, feel free to add me on GitHub. Thank you!
 
