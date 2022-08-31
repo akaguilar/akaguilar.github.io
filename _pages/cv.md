@@ -57,7 +57,7 @@ Professional Service
 
 Other Experience
 ==================
-* Sandia National Laboratories, R&D Graduate Year-Round Intern, December 2021-Present
+* Sandia National Laboratories, R&D Graduate Year-Round Intern, December 2021-August 2022
 * Pacific Northwest National Laboratory (PNNL), PhD Intern, June 2021-August 2021
 * NASA Johnson Space Center, Summer Intern, June 2018-August 2018
 * IDEA Public Schools, Student Information Systems Data Analyst, September 2015-August 2017
