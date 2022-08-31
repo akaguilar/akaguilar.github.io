@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alejandro Aguilar"
+  name             : "Alejandro Aguilar, PhD"
   avatar           : "Alejandro_Aguilar.png"
-  bio              : "PhD Candidate at Rice University, R&D Graduate Year-Round Intern at Sandia National Laboratories"
+  bio              : "PhD in Statistics from Rice University"
   location         : "Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
